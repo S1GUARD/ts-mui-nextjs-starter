@@ -17,6 +17,11 @@ sections:
             size: medium
             variant: text
             color: primary
+        image:
+          type: Image
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Image alt text
       - type: Card
         title: Children's Stories
         text: ''
