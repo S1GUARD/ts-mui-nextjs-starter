@@ -19,6 +19,13 @@
             },
             {
                 "type": "Link",
+                "label": "Children's Stories",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "Audio Stories",
                 "url": "/",
                 "underline": "always",
