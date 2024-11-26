@@ -39,7 +39,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read the DocsAAdult Fiction
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Kids Stories
