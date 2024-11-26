@@ -9,10 +9,6 @@ sections:
       - type: Card
         title: Adult Stories
         text: ''
-        image:
-          type: Image
-          url: /images/Jonathan Kemper.avif
-          altText: Item image
         actions:
           - type: Button
             label: Learn More
@@ -21,6 +17,10 @@ sections:
             size: medium
             variant: text
             color: primary
+        image:
+          type: Image
+          url: /images/Jonathan Kemper.avif
+          altText: Image alt text
       - type: Card
         title: Children's Stories
         text: ''
@@ -41,8 +41,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/sw.avif
           altText: Item image
         actions:
           - type: Button
