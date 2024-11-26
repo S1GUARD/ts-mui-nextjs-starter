@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Stories for grown ups
+        title: Stories for adults
         image:
           type: Image
           url: /images/nextjs.svg
