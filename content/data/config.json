@@ -20,7 +20,7 @@
             {
                 "type": "Link",
                 "label": "Children's Stories",
-                "url": "https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/children's-stories",
+                "url": "https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/children",
                 "underline": "always",
                 "color": "primary"
             },
@@ -34,7 +34,7 @@
             {
                 "type": "Link",
                 "label": "Fund me",
-                "url": "/",
+                "url": "https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/fund-me",
                 "underline": "always",
                 "color": "primary"
             }
