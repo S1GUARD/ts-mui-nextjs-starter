@@ -10,7 +10,6 @@ sections:
         title: Adult Stories
         image:
           type: Image
-          url: /images/nextjs.svg
           altText: First item image
         text: ''
         actions:
