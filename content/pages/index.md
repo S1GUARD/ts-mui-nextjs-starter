@@ -17,7 +17,7 @@ sections:
             label: ''
             url: 'https://docs.netlify.com/visual-editor/overview/'
           - type: Button
-            label: Learn more
+            label: Adult Stories
             url: /
             size: medium
             variant: text
