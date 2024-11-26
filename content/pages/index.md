@@ -19,7 +19,7 @@ sections:
           - type: Button
             label: Adult Stories
             url: /
-            size: medium
+            size: large
             variant: text
             color: primary
       - type: Card
