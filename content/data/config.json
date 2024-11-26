@@ -30,6 +30,13 @@
                 "url": "/",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Fund me",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     }
