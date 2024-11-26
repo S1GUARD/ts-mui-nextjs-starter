@@ -4,7 +4,7 @@ title: Adult Stories
 sections:
   - type: CardsSection
     title: Adult Stories
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
