@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: CardsSection
     title: Sam Goodings
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: Adult Fiction
