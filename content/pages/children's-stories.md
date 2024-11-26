@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Adult Stories
+title: Children's Stories
 sections:
   - type: CardsSection
     title: Adult Stories
