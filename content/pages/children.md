@@ -4,7 +4,7 @@ title: Empty page
 sections:
   - type: CardsSection
     title: Children's Stories
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
