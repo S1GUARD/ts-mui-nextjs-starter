@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Adult Stories
+        title: ''
         image:
           type: Image
           altText: First item image
