@@ -41,6 +41,12 @@ sections:
           - type: Button
             label: Re
             url: 'https://docs.netlify.com/visual-editor/overview/'
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
       - type: Card
         title: Kids Stories
         image:
