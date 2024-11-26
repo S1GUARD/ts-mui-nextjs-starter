@@ -3,7 +3,7 @@ type: Page
 title: Adult Stories
 sections:
   - type: CardsSection
-    title: Cards Section Title
+    title: Adult Stories
     subtitle: The section subtitle
     items:
       - type: Card
