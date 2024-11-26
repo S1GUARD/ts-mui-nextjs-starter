@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Empty page
+title: Adult Stories
 sections:
   - type: HeroSection
     title: An Empty Page
