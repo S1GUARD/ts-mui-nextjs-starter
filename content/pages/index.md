@@ -21,7 +21,7 @@ sections:
             url: /
             size: large
             variant: text
-            color: primary
+            color: inherit
       - type: Card
         title: Kids Stories
         image:
