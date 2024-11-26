@@ -31,22 +31,6 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: Image
-          altText: Item image
-        actions:
-          - type: Button
-            label: Learn More
-            url: /
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
         title: Adult Fiction
         image:
           type: Image
