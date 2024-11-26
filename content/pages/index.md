@@ -9,10 +9,6 @@ sections:
       - type: Card
         title: Adult Stories
         text: ''
-        image:
-          type: Image
-          url: /images/Jonathan Kemper.avif
-          altText: Item image
         actions:
           - type: Button
             label: Learn More
