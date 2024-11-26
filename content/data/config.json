@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Kids Stories",
+                "label": "Children's Stories",
                 "url": "/",
                 "underline": "always",
                 "color": "primary"
