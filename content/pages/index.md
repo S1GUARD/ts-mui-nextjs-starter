@@ -8,32 +8,34 @@ sections:
     items:
       - type: Card
         title: Adult Stories
+        text: ''
         image:
           type: Image
-          url: /images/nextjs.svg
-          altText: First item image
-        text: ''
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
         actions:
           - type: Button
-            label: Re
-            url: 'https://docs.netlify.com/visual-editor/overview/'
-          - type: Button
-            label: Learn more
+            label: Learn More
             url: /
             size: medium
             variant: text
             color: primary
       - type: Card
-        title: Kids Stories
+        title: Children's Stories
+        text: ''
         image:
           type: Image
-          url: /images/mui-5.svg
-          altText: Second item image
-        text: ''
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: Learn More
+            url: /
+            size: medium
+            variant: text
+            color: primary
       - type: Card
         title: Audio Stories
         text: ''
