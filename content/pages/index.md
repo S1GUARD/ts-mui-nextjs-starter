@@ -31,6 +31,17 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
+        title: Adult Fiction
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
+        text: ''
+        actions:
+          - type: Button
+            label: Read the Docs
+            url: 'https://docs.netlify.com/visual-editor/overview/'
+      - type: Card
         title: Kids Stories
         image:
           type: Image
@@ -41,17 +52,6 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam, quis nostrud exercitation ullamco laboris nisi ut
           aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
-      - type: Card
-        title: Adult Fiction
-        image:
-          type: Image
-          url: /images/nextjs.svg
-          altText: First item image
-        text: ''
         actions:
           - type: Button
             label: Read the Docs
