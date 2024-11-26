@@ -28,7 +28,6 @@ sections:
         title: Kids Stories
         image:
           type: Image
-          url: /images/mui-5.svg
           altText: Second item image
         text: ''
         actions:
