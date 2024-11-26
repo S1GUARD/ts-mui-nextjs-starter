@@ -27,8 +27,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Marko Blažević.avif
           altText: Item image
         actions:
           - type: Button
