@@ -14,7 +14,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Re
+            label: ''
             url: 'https://docs.netlify.com/visual-editor/overview/'
           - type: Button
             label: Learn more
