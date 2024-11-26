@@ -43,16 +43,6 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Kids Stories
-        image:
-          type: Image
-          altText: Second item image
-        text: ''
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
-      - type: Card
         title: Audio Stories
         text: ''
         image:
