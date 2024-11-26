@@ -23,10 +23,7 @@ sections:
             color: primary
       - type: Card
         title: Children's Stories
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: Image
           url: >-
