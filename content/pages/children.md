@@ -3,7 +3,7 @@ type: Page
 title: Empty page
 sections:
   - type: CardsSection
-    title: Cards Section Title
+    title: Children's Stories
     subtitle: The section subtitle
     items:
       - type: Card
