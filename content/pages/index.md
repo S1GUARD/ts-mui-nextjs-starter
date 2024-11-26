@@ -7,22 +7,6 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: ''
-        image:
-          type: Image
-          altText: First item image
-        text: ''
-        actions:
-          - type: Button
-            label: ''
-            url: 'https://docs.netlify.com/visual-editor/overview/'
-          - type: Button
-            label: Adult Stories
-            url: /
-            size: large
-            variant: contained
-            color: primary
-      - type: Card
         title: Kids Stories
         image:
           type: Image
