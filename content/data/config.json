@@ -35,6 +35,13 @@
                 "url": "/",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Audio Stories",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
