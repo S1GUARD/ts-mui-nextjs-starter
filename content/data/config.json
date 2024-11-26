@@ -28,6 +28,13 @@
                 "url": "/",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Kids Stories",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
