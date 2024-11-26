@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: ''
+        title: Adult Stories
         image:
           type: Image
           url: /images/nextjs.svg
