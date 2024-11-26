@@ -20,7 +20,7 @@ sections:
             label: Adult Stories
             url: /
             size: large
-            variant: text
+            variant: outlined
             color: primary
       - type: Card
         title: Kids Stories
