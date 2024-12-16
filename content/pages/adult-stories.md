@@ -34,7 +34,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: Download
+            label: ''
             url: Poor Choice for a Champion .pdf
             size: medium
             variant: text
