@@ -10,7 +10,7 @@ sections:
         title: Poor Choice For A Champion
         text: >+
           It is a time of celebration and joy. The war is won and the King of
-          Death is defeated. 
+          Death is defeated.
 
 
           But for the Lich Lord, Nemeddes, death is merely an inconvenience and
@@ -18,11 +18,16 @@ sections:
           his favour. Once more his dark host marches on the free lands of
           Ostus. This time no army can best it. The Darkness is ascendant and
           all the Light can offer as champion is a cowardly farm hand unable to
-          even wield a sword. 
+          even wield a sword.
 
 
           Yet this farm hand is not alone, three great heroes ride with him and
           he possesses the one thing that can stop the Lich…
+
+
+          <iframe
+          src="https\://1drv.ms/b/c/1c19a48ad4bf3bf0/IQTWztTcazpiSLp36gFBzw\_hAf0d\_EXWhPGL0vb3O5YE12c"
+          width="98" height="120" frameborder="0" scrolling="no"></iframe>
 
         image:
           type: Image
