@@ -74,13 +74,7 @@ sections:
           type: Image
           url: /images/Darkness cover ebook.jpg
           altText: Second item image
-        actions:
-          - type: Button
-            label: Download
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Third Item Title
         text: >-
