@@ -37,10 +37,41 @@ sections:
             color: primary
       - type: Card
         title: A Darkness Within Darkness
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          It is a time of darkness and dread. The strong crush the weak and
+          witchcraft and necromancy swell unchecked. The Cusp, the partition
+          that separates our world from what is beyond, has grown thin and
+          threadbare. In the older, darker places of the world, it has already
+          collapsed. Demons and spirits pour through and ancient things that
+          once stalked and hunted man, long banished by champions of old, are
+          returning.
+
+
+          Through this chaos one man walks, joyous in slaughter and death:
+          Ahriman - the Dark Rider. Thrice a king by his own hand, he is a cruel
+          and wilful killer; cunning, heartless and immune to compassion.
+
+
+          But now Ahriman is dying. Desperate for a cure he journeys into the
+          forsaken, frozen North. At his back, he is pursued by the scores of
+          enemies he has made through his evil life. Bandits, brigands, knights
+          and kings all hunt him. But what is that to Ahriman? He has always
+          been hunted.
+
+
+          In the North there is something worse; the armies of Yebzor, the Witch
+          of the Hill - and beyond her, something vile and ancient... something
+          dread and all powerful which awakens from long slumber. In time this
+          ancient entity will lash all of humanity in chains. It is corrupt and
+          perverse beyond human understanding and it is completely unused to
+          defiance or defeat.
+
+
+          But then, in all its long life, it has never faced an enemy like
+          Emal-Na'rad Ahriman...
+
+
+
         image:
           type: Image
           url: /images/Darkness cover ebook.jpg
