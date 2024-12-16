@@ -32,7 +32,9 @@ sections:
           - type: Button
             label: Download
             url: >-
-              /https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdbO1NxrOmJIunfqAUHPD-EBkeTTBr-uOFutDSd6Cln1SA?e=aAjflg
+              <iframe
+              src="https://1drv.ms/b/c/1c19a48ad4bf3bf0/IQTWztTcazpiSLp36gFBzw_hAf0d_EXWhPGL0vb3O5YE12c"
+              width="98" height="120" frameborder="0" scrolling="no"></iframe>
             size: medium
             variant: text
             color: primary
