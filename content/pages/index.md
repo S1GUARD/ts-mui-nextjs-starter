@@ -12,8 +12,7 @@ sections:
         actions:
           - type: Button
             label: Learn More
-            url: >-
-              https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/adult-stories
+            url: 'https://samgoodings.com/adult-stories'
             size: medium
             variant: text
             color: primary
