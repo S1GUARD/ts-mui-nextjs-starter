@@ -14,7 +14,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Pdf Cover.jpg
           altText: First item image
         actions:
           - type: Button
