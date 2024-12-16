@@ -35,7 +35,7 @@ sections:
         actions:
           - type: Button
             label: ''
-            url: Poor Choice for a Champion .pdf
+            url: ''
             size: medium
             variant: text
             color: primary
