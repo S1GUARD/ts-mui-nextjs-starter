@@ -31,7 +31,8 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: /
+            url: >-
+              /https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdbO1NxrOmJIunfqAUHPD-EBkeTTBr-uOFutDSd6Cln1SA?e=aAjflg
             size: medium
             variant: text
             color: primary
