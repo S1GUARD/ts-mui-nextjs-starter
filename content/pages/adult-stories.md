@@ -35,10 +35,7 @@ sections:
         actions:
           - type: Button
             label: Download
-            url: >-
-              <iframe
-              src="https://1drv.ms/b/c/1c19a48ad4bf3bf0/IQTWztTcazpiSLp36gFBzw_hAf0d_EXWhPGL0vb3O5YE12c"
-              width="98" height="120" frameborder="0" scrolling="no"></iframe>
+            url: Poor Choice for a Champion .pdf
             size: medium
             variant: text
             color: primary
