@@ -32,13 +32,7 @@ sections:
           type: Image
           url: /images/Pdf Cover.jpg
           altText: First item image
-        actions:
-          - type: Button
-            label: ''
-            url: ''
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: A Darkness Within Darkness
         text: >+
