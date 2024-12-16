@@ -10,7 +10,7 @@ sections:
         title: Poor Choice For A Champion
         text: >+
           It is a time of celebration and joy. The war is won and the King of
-          Death is defeated. 
+          Death is defeated.
 
 
           But for the Lich Lord, Nemeddes, death is merely an inconvenience and
@@ -18,24 +18,21 @@ sections:
           his favour. Once more his dark host marches on the free lands of
           Ostus. This time no army can best it. The Darkness is ascendant and
           all the Light can offer as champion is a cowardly farm hand unable to
-          even wield a sword. 
+          even wield a sword.
 
 
           Yet this farm hand is not alone, three great heroes ride with him and
           he possesses the one thing that can stop the Lich…
 
+
+          [Poor Choice for a Champion
+          .pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdbO1NxrOmJIunfqAUHPD-EBkeTTBr-uOFutDSd6Cln1SA?e=1A2E8e)
+
         image:
           type: Image
           url: /images/Pdf Cover.jpg
           altText: First item image
-        actions:
-          - type: Button
-            label: Download
-            url: >-
-              /https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdbO1NxrOmJIunfqAUHPD-EBkeTTBr-uOFutDSd6Cln1SA?e=aAjflg
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: A Darkness Within Darkness
         text: >+
@@ -72,18 +69,14 @@ sections:
           Emal-Na'rad Ahriman...
 
 
+          [A Darkness Within
+          Darkness.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EeHCEyBkqx1Girpk35u_5VYB6JvmhAHx4A5PV-SJ9q2-9A?e=dvIS1N)
 
         image:
           type: Image
           url: /images/Darkness cover ebook.jpg
           altText: Second item image
-        actions:
-          - type: Button
-            label: Download
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Third Item Title
         text: >-
