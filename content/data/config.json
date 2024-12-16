@@ -7,13 +7,13 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "url": "/",
+                "url": "www.samgoodings.com",
                 "underline": "hover"
             },
             {
                 "type": "Link",
                 "label": "Adult Stories",
-                "url": "https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/adult-stories",
+                "url": "https://samgoodings.com/adult-stories",
                 "underline": "always",
                 "color": "primary"
             },
