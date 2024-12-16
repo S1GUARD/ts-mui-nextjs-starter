@@ -69,6 +69,8 @@ sections:
           Emal-Na'rad Ahriman...
 
 
+          [A Darkness Within
+          Darkness.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EeHCEyBkqx1Girpk35u_5VYBlFbxpuKLZAqFDHebciJYVg?e=Qw49ck)
 
         image:
           type: Image
