@@ -202,11 +202,5 @@ sections:
           type: Image
           url: /images/ouroboros.jpg
           altText: Third item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
 ---
