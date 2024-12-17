@@ -190,10 +190,12 @@ sections:
       - type: Card
         title: Ouroboros
         text: >+
-          A series of short stories on the theme of heroism and courage. 
+          A series of short stories on the theme of heroism and courage.
 
 
-          [Ouroboros.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ETnlE4RZeXVHmPokT7XMjwwB8Eb_LK-bzamaGIr2DktU6g?e=71z1ca)
+          [Ouroboros.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ETnlE4RZeXVHmPokT7XMjwwB8Eb_LK-bzamaGIr2DktU6g?e=jf1cOh)
+
+
 
         image:
           type: Image
