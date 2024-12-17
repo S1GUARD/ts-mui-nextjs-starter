@@ -110,7 +110,7 @@ sections:
           altText: Third item image
         actions: []
   - type: CardsSection
-    title: Cards Section Title
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Card
