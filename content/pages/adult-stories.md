@@ -102,7 +102,9 @@ sections:
           old man called Jekk who is too stubborn to die…
 
 
-          [HDD.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdEWj0p24xREmQFUNP9iRZIBp5y5HP2dprBTLmcQcTSZ8Q?e=O2Is2K)
+          [HDD.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdEWj0p24xREmQFUNP9iRZIBp5y5HP2dprBTLmcQcTSZ8Q?e=mFv47n)
+
+
 
         image:
           type: Image
