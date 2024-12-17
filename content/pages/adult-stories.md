@@ -192,10 +192,12 @@ sections:
         actions: []
       - type: Card
         title: Ouroboros
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          A series of short stories on the theme of heroism and courage. 
+
+
+          [Ouroboros.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ETnlE4RZeXVHmPokT7XMjwwB8Eb_LK-bzamaGIr2DktU6g?e=71z1ca)
+
         image:
           type: Image
           url: /images/ouroboros.jpg
