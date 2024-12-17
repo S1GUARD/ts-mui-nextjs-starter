@@ -25,8 +25,8 @@ sections:
           he possesses the one thing that can stop the Lich…
 
 
-          [Poor Choice for a Champion
-          .pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdbO1NxrOmJIunfqAUHPD-EBkeTTBr-uOFutDSd6Cln1SA?e=1A2E8e)
+          [Poor Choice for a
+          Champion.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EeOeZP5LmIlOvaFMVN5nJRgB2add_6S-kqecxJoZnEpeOw?e=cBfcr1)
 
         image:
           type: Image
