@@ -161,19 +161,18 @@ sections:
           On an unlicensed world far into deep space, away from the prying eyes
           of the Mega Corps and Galactic Governors, stands The Tower: a hub for
           the sort of research that needs doing when whatever needs doing has to
-          stay off the books. 
+          stay off the books.
 
 
           Inside: a hive of minds all working on the next big thing - illegal
           weapons, immoral tech, bio-warfare, occult investigations, intelligent
           design - and the pinnacle of it all; research that could rewrite every
-          axiom that humankind has ever held: Project Beacon. 
+          axiom that humankind has ever held: Project Beacon.
 
 
           But now The Tower has gone dark. Its defences are down, its personnel
           are slaughtered - and all its data - including Project Beacon - is up
-          for grabs. 
-
+          for grabs.
 
 
           This is the story of the brave men and women who would be scarified to
@@ -181,7 +180,9 @@ sections:
           man at the top of The Tower.
 
 
-          [Vegvisir.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ESYCCIwUHeRLpVyR0xvbw00BDPkLMlBJcUKIB2bSnEH-_A?e=RcEgE2)
+          [Vegvisir.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ESYCCIwUHeRLpVyR0xvbw00BDPkLMlBJcUKIB2bSnEH-_A?e=eS7bqa)
+
+
 
         image:
           type: Image
