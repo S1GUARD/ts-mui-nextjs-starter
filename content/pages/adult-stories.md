@@ -79,10 +79,28 @@ sections:
         actions: []
       - type: Card
         title: HDD
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Our world is nearly done. Mankind has killed her. 
+
+
+          On the surface of The Heat, the great desert that is all that is left,
+          the last generation of humanity struggles beneath an unforgiving sun.
+          But even in the very end times there are those who still seek power.
+          The remnants of the great corporations who brought about our downfall
+          still seek to control the lives of those who remain. 
+
+
+          Resources that should go to humanitarian aid go to war machines, money
+          that could end suffering is spent on mercenaries and technology that
+          could save thousands of lives is reserved only for the elite. But
+          there are still those who resist, who cling to the hope of tomorrow -
+          rebels and outcasts who will do anything for the technological secrets
+          that could save their people.
+
+
+          This is a story of the the end times, of heroes and sacrifice and an
+          old man called Jekk who is too stubborn to die…
+
         image:
           type: Image
           url: /images/Hdd New.jpg
