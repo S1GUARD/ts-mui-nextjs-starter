@@ -80,14 +80,14 @@ sections:
       - type: Card
         title: HDD
         text: >+
-          Our world is nearly done. Mankind has killed her. 
+          Our world is nearly done. Mankind has killed her.
 
 
           On the surface of The Heat, the great desert that is all that is left,
           the last generation of humanity struggles beneath an unforgiving sun.
           But even in the very end times there are those who still seek power.
           The remnants of the great corporations who brought about our downfall
-          still seek to control the lives of those who remain. 
+          still seek to control the lives of those who remain.
 
 
           Resources that should go to humanitarian aid go to war machines, money
@@ -100,6 +100,9 @@ sections:
 
           This is a story of the the end times, of heroes and sacrifice and an
           old man called Jekk who is too stubborn to die…
+
+
+          [HDD.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdEWj0p24xREmQFUNP9iRZIBp5y5HP2dprBTLmcQcTSZ8Q?e=O2Is2K)
 
         image:
           type: Image
