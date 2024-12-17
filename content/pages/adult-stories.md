@@ -180,9 +180,7 @@ sections:
           man at the top of The Tower.
 
 
-          [Vegvisir.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ESYCCIwUHeRLpVyR0xvbw00BDPkLMlBJcUKIB2bSnEH-_A?e=eS7bqa)
-
-
+          [Vegvisir.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ESYCCIwUHeRLpVyR0xvbw00BDPkLMlBJcUKIB2bSnEH-_A?e=rnvbZI)
 
         image:
           type: Image
