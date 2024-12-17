@@ -26,7 +26,9 @@ sections:
 
 
           [Poor Choice for a
-          Champion.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EeOeZP5LmIlOvaFMVN5nJRgB2add_6S-kqecxJoZnEpeOw?e=cBfcr1)
+          Champion.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EeOeZP5LmIlOvaFMVN5nJRgB2add_6S-kqecxJoZnEpeOw?e=Deb1Ud)
+
+
 
         image:
           type: Image
