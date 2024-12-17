@@ -115,10 +115,37 @@ sections:
     items:
       - type: Card
         title: The Writer
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          Simon Scotts was coldly happy living in his brother’s shadow. His
+          brother might have been on the back page each week scoring a winning
+          goal or plastered across the front pages with his latest girlfriend -
+          but Simon was well used to that. And even if Simon’s own dreams had
+          never come true, he had his own life, his own family, his own career.
+          And that was enough.
+
+
+          Until the story broke.
+
+
+          There’s no easy way to find out you’re a cuckold. But when your
+          brother is an international sports star and the press are desperate to
+          cover every aspect about his affair with your wife - there is no where
+          to hide.
+
+
+          But from the unwanted attention of that nightmare comes a chance, a
+          last chance, for all Simon’s dreams to come true: to be famous, to be
+          respected and finally to be more than the other brother.
+
+
+          But all dreams come with a price. 
+
+
+          [The
+          Writer.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EYegCrAe4YpAt53uAxzteyEBMEBqxRTJpYJ-Qf8bdTnUdA?e=rDmteT)
+
+
+
         image:
           type: Image
           url: /images/Writer Cover.jpg
