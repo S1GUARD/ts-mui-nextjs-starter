@@ -26,7 +26,9 @@ sections:
 
 
           [Poor Choice for a
-          Champion.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EeOeZP5LmIlOvaFMVN5nJRgB2add_6S-kqecxJoZnEpeOw?e=cBfcr1)
+          Champion.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EeOeZP5LmIlOvaFMVN5nJRgB2add_6S-kqecxJoZnEpeOw?e=Deb1Ud)
+
+
 
         image:
           type: Image
@@ -102,7 +104,9 @@ sections:
           old man called Jekk who is too stubborn to die…
 
 
-          [HDD.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdEWj0p24xREmQFUNP9iRZIBp5y5HP2dprBTLmcQcTSZ8Q?e=O2Is2K)
+          [HDD.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EdEWj0p24xREmQFUNP9iRZIBp5y5HP2dprBTLmcQcTSZ8Q?e=mFv47n)
+
+
 
         image:
           type: Image
@@ -138,11 +142,11 @@ sections:
           respected and finally to be more than the other brother.
 
 
-          But all dreams come with a price. 
+          But all dreams come with a price.
 
 
           [The
-          Writer.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EYegCrAe4YpAt53uAxzteyEBMEBqxRTJpYJ-Qf8bdTnUdA?e=rDmteT)
+          Writer.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/EYegCrAe4YpAt53uAxzteyEBMEBqxRTJpYJ-Qf8bdTnUdA?e=9OQOga)
 
 
 
@@ -157,19 +161,18 @@ sections:
           On an unlicensed world far into deep space, away from the prying eyes
           of the Mega Corps and Galactic Governors, stands The Tower: a hub for
           the sort of research that needs doing when whatever needs doing has to
-          stay off the books. 
+          stay off the books.
 
 
           Inside: a hive of minds all working on the next big thing - illegal
           weapons, immoral tech, bio-warfare, occult investigations, intelligent
           design - and the pinnacle of it all; research that could rewrite every
-          axiom that humankind has ever held: Project Beacon. 
+          axiom that humankind has ever held: Project Beacon.
 
 
           But now The Tower has gone dark. Its defences are down, its personnel
           are slaughtered - and all its data - including Project Beacon - is up
-          for grabs. 
-
+          for grabs.
 
 
           This is the story of the brave men and women who would be scarified to
@@ -177,7 +180,7 @@ sections:
           man at the top of The Tower.
 
 
-          [Vegvisir.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ESYCCIwUHeRLpVyR0xvbw00BDPkLMlBJcUKIB2bSnEH-_A?e=RcEgE2)
+          [Vegvisir.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ESYCCIwUHeRLpVyR0xvbw00BDPkLMlBJcUKIB2bSnEH-_A?e=rnvbZI)
 
         image:
           type: Image
@@ -187,10 +190,12 @@ sections:
       - type: Card
         title: Ouroboros
         text: >+
-          A series of short stories on the theme of heroism and courage. 
+          A series of short stories on the theme of heroism and courage.
 
 
-          [Ouroboros.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ETnlE4RZeXVHmPokT7XMjwwB8Eb_LK-bzamaGIr2DktU6g?e=71z1ca)
+          [Ouroboros.pdf](https://1drv.ms/b/c/1c19a48ad4bf3bf0/ETnlE4RZeXVHmPokT7XMjwwB8Eb_LK-bzamaGIr2DktU6g?e=jf1cOh)
+
+
 
         image:
           type: Image
