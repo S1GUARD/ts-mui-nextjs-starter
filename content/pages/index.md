@@ -36,7 +36,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Audio Stories
+        title: ''
         text: ''
         image:
           type: Image
