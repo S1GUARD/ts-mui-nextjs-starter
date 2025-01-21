@@ -40,7 +40,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/sw.avif
+          url: /images/Audio.jpg
           altText: Item image
         actions:
           - type: Button
