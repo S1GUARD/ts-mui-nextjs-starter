@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Meerkats
+        title: The Interdimensional Crime Fighting Meerkats of Almost Certain Peril
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
