@@ -25,7 +25,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/Marko Blažević.avif
+          url: /images/Childrens.jpg
           altText: Item image
         actions:
           - type: Button
