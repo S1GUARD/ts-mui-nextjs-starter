@@ -7,14 +7,14 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Meerkats
+        title: The Interdimensional Crime Fighting Meerkats of Almost Certain Peril
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Meerkats cover.jpg
           altText: First item image
         actions:
           - type: Button
