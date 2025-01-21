@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Adult Stories
+        title: ''
         text: ''
         actions:
           - type: Button
