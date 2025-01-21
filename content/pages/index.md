@@ -18,7 +18,7 @@ sections:
             color: primary
         image:
           type: Image
-          url: /images/Jonathan Kemper.avif
+          url: /images/adult.jpg
           altText: Image alt text
       - type: Card
         title: Children's Stories
