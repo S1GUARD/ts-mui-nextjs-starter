@@ -33,7 +33,7 @@
             },
             {
                 "type": "Link",
-                "label": "Fund me",
+                "label": "About",
                 "url": "https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/fund-me",
                 "underline": "always",
                 "color": "primary"
