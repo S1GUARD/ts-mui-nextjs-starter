@@ -21,7 +21,7 @@ sections:
           url: /images/adult.jpg
           altText: Image alt text
       - type: Card
-        title: Children's Stories
+        title: ''
         text: ''
         image:
           type: Image
