@@ -20,14 +20,14 @@
             {
                 "type": "Link",
                 "label": "Children's Stories",
-                "url": "https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/children",
+                "url": "https://samgoodings.com/children",
                 "underline": "always",
                 "color": "primary"
             },
             {
                 "type": "Link",
                 "label": "Audio Stories",
-                "url": "https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/audio-stories",
+                "url": "https://samgoodings.com/audio-stories",
                 "underline": "always",
                 "color": "primary"
             },
