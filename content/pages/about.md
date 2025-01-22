@@ -1,17 +1,24 @@
 ---
-title: About
 type: Page
+title: About
 sections:
   - type: HeroSection
-    title: Example for H2 headline
-    subtitle: This is the subtitle
-    text: >
-      This is **Markdown** *text*.
-
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+    title: An Empty Page
+    subtitle: The section subtitle
+    text: >-
+      Add more sections by hovering above or below this one and clicking '+ Add
+      Section', or using the sidebar.
+    actions:
+      - type: Button
+        label: Get Started
+        url: /
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: Learn more
+        url: /
+        size: large
+        variant: outlined
+        color: primary
 ---
