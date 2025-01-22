@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: The Interdimensional Crime Fighting Meerkats of Almost Certain Peril
+        title: The Interdimensional Crime Fighting Meerkats of Almost Certain Peril 1
         text: >+
           In a time similar to your own, inside a parallel reality which is
           shifted
