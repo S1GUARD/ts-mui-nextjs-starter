@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: Adult Stories
+        title: ''
         text: ''
         actions:
           - type: Button
@@ -18,35 +18,33 @@ sections:
             color: primary
         image:
           type: Image
-          url: /images/Jonathan Kemper.avif
+          url: /images/adult.jpg
           altText: Image alt text
       - type: Card
-        title: Children's Stories
+        title: ''
         text: ''
         image:
           type: Image
-          url: /images/Marko Blažević.avif
+          url: /images/Childrens.jpg
           altText: Item image
         actions:
           - type: Button
             label: Learn More
-            url: >-
-              https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/children
+            url: 'https://samgoodings.com/children'
             size: medium
             variant: text
             color: primary
       - type: Card
-        title: Audio Stories
+        title: ''
         text: ''
         image:
           type: Image
-          url: /images/sw.avif
+          url: /images/Audio.jpg
           altText: Item image
         actions:
           - type: Button
             label: Learn More
-            url: >-
-              https://create.netlify.com/studio/6745d0ee0b6f8c00c32041c7#/audio-stories
+            url: 'https://samgoodings.com/audio-stories'
             size: medium
             variant: text
             color: primary
