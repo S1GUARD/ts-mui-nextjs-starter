@@ -4,7 +4,7 @@ title: About
 sections:
   - type: HeroSection
     title: ''
-    subtitle: About
+    subtitle: ''
     text: >
       Thanks for checking out my stories. 
 
