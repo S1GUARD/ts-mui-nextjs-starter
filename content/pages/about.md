@@ -3,7 +3,7 @@ type: Page
 title: About
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: ''
     subtitle: ''
     text: >+
       Thanks for checking out my stuff, I appreciate it. I hope you enjoyed it.
