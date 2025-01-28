@@ -5,11 +5,15 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Thanks for checking out my stuff. Everything is for free, but if you'd
+      like to support me, you can do so here: 
+
+
+
+
+
+      https\://buymeacoffee.com/samgoodings
     actions:
       - type: Button
         label: Start Building
