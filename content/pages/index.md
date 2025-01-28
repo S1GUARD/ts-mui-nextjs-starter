@@ -43,7 +43,7 @@ sections:
           altText: Item image
         actions:
           - type: Button
-            label: Learn More
+            label: Listen Here
             url: 'https://samgoodings.com/audio-stories'
             size: medium
             variant: text
