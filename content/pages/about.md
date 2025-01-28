@@ -6,7 +6,7 @@ sections:
     title: ''
     subtitle: ''
     text: >
-      Thanks for checking out my stories. 
+      Thanks for checking out my stories.
 
 
       Stuff I like: 40k, Castlevania, MTG, Taiji, David Gemmell, Zelda,
@@ -21,7 +21,7 @@ sections:
 
 
       Stuff I don't like: I don't really like tartar sauce, but I have no issues
-      with anyone who does. 
+      with anyone who does.
 
 
       I hope you enjoyed my stories, everything is for free, but if you'd like
@@ -36,9 +36,7 @@ sections:
       om mani padme hum,
 
 
-      Sam[
-
-      ](https://buymeacoffee.com/samgoodings)
+      Sam
     actions: []
     image:
       type: Image
