@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Empty page
+title: Children
 sections:
   - type: CardsSection
     title: Children's Stories
