@@ -50,6 +50,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Lachlan.jpg
       altText: Hero section image
 ---
