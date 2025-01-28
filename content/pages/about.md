@@ -3,22 +3,40 @@ type: Page
 title: About
 sections:
   - type: HeroSection
-    title: An Empty Page
-    subtitle: The section subtitle
-    text: >-
-      Add more sections by hovering above or below this one and clicking '+ Add
-      Section', or using the sidebar.
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Learn more
-        url: /
-        size: large
-        variant: outlined
-        color: primary
+    title: ''
+    subtitle: ''
+    text: >
+      **Stuff I like:** 40k, Castlevania, MTG, Taiji, David Gemmell, Zelda,
+      Bloodbowl, Gaslands, Willow, William Gibson, Calisthenics, Metroid, Army
+      of Darkness, Dungeon Crawlers, Subnautica, The Princess Bride, Quantum
+      Leap, Doom, Rocky, Cowboy Bebop (Anime), animals, compassion, Vash the
+      Stampede, Dr. Who, Babylon 5 and Red Dwarf.
+
+
+      **Stuff I really like:** My family, my friends and peace and love between
+      all beings.
+
+
+      **Stuff I don't like:** I don't really like tartar sauce, but I have no
+      issues with anyone who does.
+
+
+      I hope you enjoyed my stories, everything is for free, but if you'd like
+      to support me, you can do so here:
+
+
+      [https://buymeacoffee.com/samgoodings
+
+      ](https://buymeacoffee.com/samgoodings)
+
+
+      om mani padme hum,
+
+
+      Sam
+    actions: []
+    image:
+      type: Image
+      url: /images/Lachlan.jpg
+      altText: Hero section image
 ---
