@@ -1,13 +1,13 @@
 ---
 type: Page
-title: Audio Stories
+title: Audio
 sections:
   - type: CardsSection
-    title: Adult Stories
+    title: Audio Stories
     subtitle: ''
     items:
       - type: Card
-        title: Poor Choice For A Champion
+        title: First Item Title
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
@@ -24,7 +24,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: A Darkness Within Darkness
+        title: Second Item Title
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
