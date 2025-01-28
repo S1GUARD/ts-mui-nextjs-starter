@@ -3,7 +3,7 @@ type: Page
 title: About
 sections:
   - type: HeroSection
-    title: Thanks for checking out my stuff
+    title: ''
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
