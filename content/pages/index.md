@@ -11,7 +11,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Learn More
+            label: Read Here
             url: 'https://samgoodings.com/adult-stories'
             size: medium
             variant: text
