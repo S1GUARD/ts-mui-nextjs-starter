@@ -6,9 +6,6 @@ sections:
     title: ''
     subtitle: ''
     text: >
-      Thanks for checking out my stories.
-
-
       Stuff I like: 40k, Castlevania, MTG, Taiji, David Gemmell, Zelda,
       Bloodbowl, Gaslands, Willow, William Gibson, Calisthenics, Metroid, Army
       of Darkness, Dungeon Crawlers, Subnautica, The Princess Bride, Quantum
