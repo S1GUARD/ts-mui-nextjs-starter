@@ -33,7 +33,7 @@ sections:
       ](https://buymeacoffee.com/samgoodings)
 
 
-      om mani padme hum,
+      Om mani padme hum,
 
 
       Sam
