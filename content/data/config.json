@@ -19,7 +19,7 @@
             },
             {
                 "type": "Link",
-                "label": "Children's Stories",
+                "label": "Children's Fiction",
                 "url": "https://samgoodings.com/children",
                 "underline": "always",
                 "color": "primary"
