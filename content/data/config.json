@@ -12,14 +12,14 @@
             },
             {
                 "type": "Link",
-                "label": "Adult Stories",
+                "label": "Adult Fiction",
                 "url": "https://samgoodings.com/adult-stories",
                 "underline": "always",
                 "color": "primary"
             },
             {
                 "type": "Link",
-                "label": "Children's Stories",
+                "label": "Children's Fiction",
                 "url": "https://samgoodings.com/children",
                 "underline": "always",
                 "color": "primary"
