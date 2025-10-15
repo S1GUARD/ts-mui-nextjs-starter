@@ -21,7 +21,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: ''
         text: |
           [Listen here](https://youtu.be/6g4-_-MwhvI?si=ZAnwzvyodbtw3Hj7)
         image:
