@@ -7,7 +7,7 @@ sections:
     subtitle: Audio Stories
     items:
       - type: Card
-        title: Nothing here yet
+        title: Listen here
         text: ''
         image:
           type: Image
