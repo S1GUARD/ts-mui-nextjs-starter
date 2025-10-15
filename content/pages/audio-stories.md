@@ -11,7 +11,7 @@ sections:
         text: ''
         image:
           type: Image
-          url: /images/sw.avif
+          url: /images/Meerkats cover.jpg
           altText: First item image
         actions:
           - type: Button
