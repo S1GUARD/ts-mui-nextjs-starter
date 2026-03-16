@@ -12,7 +12,7 @@
             },
             {
                 "type": "Link",
-                "label": "Adult Fiction",
+                "label": "Fiction",
                 "url": "https://samgoodings.com/adult-stories",
                 "underline": "always",
                 "color": "primary"
