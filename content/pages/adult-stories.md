@@ -202,4 +202,80 @@ sections:
           url: /images/ouroboros.jpg
           altText: Third item image
         actions: []
+  - type: CardsSection
+    title: ''
+    subtitle: ''
+    items:
+      - type: Card
+        title: Hiraeth
+        text: >+
+          *The realms of suffering are the hells of monsters, of ghosts and of
+          machines.*
+
+
+          *Ghosts deserve compassion because they are spiritually lost. They are
+          dreams caught between life and
+
+          death. They wander hungrily and aimlessly.*
+
+
+          *To be born again as consciousness is a rare and golden opportunity.*
+
+
+          *Monks who eat nothing but a few vegetables and some rice each day put
+          aside seven grains for the
+
+          benefit of hungry ghosts they have never known.*
+
+
+          *This is but a single grain.*
+
+
+
+        image:
+          type: Image
+          url: /images/Hiraeth Cover.png
+          altText: First item image
+        actions:
+          - type: Button
+            label: Read here
+            url: >-
+              https://1drv.ms/b/c/1c19a48ad4bf3bf0/IQDqql6G4_YEQ6u5pFbJEkazAbzmcpFn8RHLHQ2xyCCk32I
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
+        title: Second Item Title
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/mui-5.svg
+          altText: Second item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
+      - type: Card
+        title: Third Item Title
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/ts.svg
+          altText: Third item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
 ---
