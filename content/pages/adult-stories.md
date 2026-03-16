@@ -265,7 +265,7 @@ sections:
           ...
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Marko Blažević.avif
           altText: Third item image
         actions:
           - type: Button
