@@ -208,10 +208,30 @@ sections:
     items:
       - type: Card
         title: Hiraeth
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          *The realms of suffering are the hells of monsters, of ghosts and of
+          machines.*
+
+
+          *Ghosts deserve compassion because they are spiritually lost. They are
+          dreams caught between life and
+
+          death. They wander hungrily and aimlessly.*
+
+
+          *To be born again as consciousness is a rare and golden opportunity.*
+
+
+          *Monks who eat nothing but a few vegetables and some rice each day put
+          aside seven grains for the
+
+          benefit of hungry ghosts they have never known.*
+
+
+          *This is but a single grain.*
+
+
+
         image:
           type: Image
           url: /images/Hiraeth Cover.png
