@@ -245,14 +245,12 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: Nothing yet...
+        text: |
+          ...
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Marko Blažević.avif
           altText: Second item image
         actions:
           - type: Button
@@ -262,14 +260,12 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        title: Nothing yet...
+        text: |
+          ...
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Marko Blažević.avif
           altText: Third item image
         actions:
           - type: Button
