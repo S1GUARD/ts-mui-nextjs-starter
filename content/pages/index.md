@@ -18,7 +18,7 @@ sections:
             color: primary
         image:
           type: Image
-          url: /images/adult.jpg
+          url: /images/Fiction.png
           altText: Image alt text
       - type: Card
         title: ''
