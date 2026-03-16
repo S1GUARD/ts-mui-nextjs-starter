@@ -239,7 +239,8 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            url: /
+            url: >-
+              https://1drv.ms/b/c/1c19a48ad4bf3bf0/IQDqql6G4_YEQ6u5pFbJEkazAbzmcpFn8RHLHQ2xyCCk32I
             size: medium
             variant: text
             color: primary
